@@ -45,13 +45,13 @@ const StyledNav = styled(motion.nav)`
   input {
     width: 30%;
     font-size: 1.5rem;
-    padding: 0.5rem;
-    border: none;
+    padding: 0.4rem;
+    border: 1px solid #ff7676;
     margin-top: 1rem;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
   }
   button {
-    font-size: 1.5rem;
+    font-size: 1.5rem;    
     border: none;
     padding: 0.5rem 2rem;
     cursor: pointer;
